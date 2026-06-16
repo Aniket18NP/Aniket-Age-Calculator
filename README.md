@@ -18,7 +18,7 @@ A simple and responsive Age Calculator built with HTML, CSS, and JavaScript that
 
 ## 🚀 Live Demo
 
-https://yourusername.github.io/aniket-age-calculator/
+https://aniket18np.github.io/aniket-age-calculator/
 
 ## 📂 Project Structure
 
